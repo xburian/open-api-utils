@@ -1,0 +1,10 @@
+/node_modules
+/open-api-utils.iml
+/.idea
+
+# Ignore test-related files
+/coverage.data
+/coverage/
+
+# Build files
+/dist
