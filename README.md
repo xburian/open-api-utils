@@ -28,6 +28,6 @@ We welcome contributions! If you find any issues or have feature requests, pleas
 
 ## License
 
-This project is open source and distributed under the  MIT License.
+This project is open source and distributed under the MIT License. 
 
 
